@@ -1,0 +1,9 @@
+{
+	"name": "CustomerChurn-onPrem-To-ADLS",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15ee9032-5c7d-492f-8791-227be08a4045",
+		"tenantId": "cc60f6a0-0098-4606-a4ec-e6461b776944"
+	}
+}
